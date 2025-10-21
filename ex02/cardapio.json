@@ -1,0 +1,49 @@
+{
+    "entradas": [
+        {
+            "nome": "Pão de Alho",
+            "descricao": "Pão francês assado com manteiga e alho.",
+            "preco": 8.0,
+            "ingredientes": [
+                "pão francês",
+                "manteiga",
+                "alho"
+            ],
+            "acompanhamentos": [
+                "molho de ervas"
+            ]
+        }
+    ],
+    "pratos_principais": [
+        {
+            "nome": "Frango Grelhado",
+            "descricao": "Filé de frango grelhado com arroz e salada.",
+            "preco": 25.0,
+            "ingredientes": [
+                "frango",
+                "arroz",
+                "alface",
+                "tomate"
+            ],
+            "acompanhamentos": [
+                "batata frita",
+                "feijão tropeiro"
+            ]
+        }
+    ],
+    "sobremesas": [
+        {
+            "nome": "Pudim de Leite",
+            "descricao": "Clássico pudim de leite condensado com calda de caramelo.",
+            "preco": 10.0,
+            "ingredientes": [
+                "leite condensado",
+                "ovos",
+                "açúcar"
+            ],
+            "acompanhamentos": [
+                "chantilly"
+            ]
+        }
+    ]
+}
