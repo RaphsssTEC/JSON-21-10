@@ -1,0 +1,10 @@
+{
+  "nome": "Valdenilson",
+  "idade": 16,
+  "cpf": "335.233.535-15",
+  "alunos": [
+    "Carlos",
+    "Pedro",
+    "Raphael"
+  ]
+}
