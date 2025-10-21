@@ -1,0 +1,110 @@
+[
+    {
+        "titulo": "A Origem",
+        "ano": 2010,
+        "diretor": "Christopher Nolan",
+        "generos": [
+            "Ação",
+            "Ficção Científica",
+            "Suspense"
+        ],
+        "elenco": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "avaliacoes": [
+            {
+                "usuario": "mariana23",
+                "nota": 9.5,
+                "comentario": "Filme sensacional, enredo complexo e envolvente!"
+            },
+            {
+                "usuario": "cinemania",
+                "nota": 8.0,
+                "comentario": "Muito bom, mas exige atenção total!"
+            }
+        ]
+    },
+    {
+        "titulo": "Interestelar",
+        "ano": 2014,
+        "diretor": "Christopher Nolan",
+        "generos": [
+            "Ficção Científica",
+            "Drama",
+            "Aventura"
+        ],
+        "elenco": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ],
+        "avaliacoes": [
+            {
+                "usuario": "astrolover",
+                "nota": 9.8,
+                "comentario": "Simplesmente maravilhoso! Uma viagem emocionante pelo espaço e pelo tempo."
+            },
+            {
+                "usuario": "filmes10",
+                "nota": 9.0,
+                "comentario": "Fotografia e trilha sonora impecáveis!"
+            }
+        ]
+    },
+    {
+        "titulo": "Kill Bill: Volume 1",
+        "ano": 2003,
+        "diretor": "Quentin Tarantino",
+        "generos": [
+            "Ação",
+            "Suspense",
+            "Crime"
+        ],
+        "elenco": [
+            "Uma Thurman",
+            "Lucy Liu",
+            "Vivica A. Fox"
+        ],
+        "avaliacoes": [
+            {
+                "usuario": "samuraifan",
+                "nota": 9.3,
+                "comentario": "Coreografias incríveis e visual marcante!"
+            },
+            {
+                "usuario": "tarantino_addict",
+                "nota": 9.0,
+                "comentario": "O estilo inconfundível de Tarantino em sua melhor forma."
+            }
+        ]
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "ano": 2009,
+        "diretor": "Quentin Tarantino",
+        "generos": [
+            "Guerra",
+            "Drama",
+            "Ação"
+        ],
+        "elenco": [
+            "Brad Pitt",
+            "Christoph Waltz",
+            "Diane Kruger"
+        ],
+        "avaliacoes": [
+            {
+                "usuario": "cinearte",
+                "nota": 9.7,
+                "comentario": "Um dos filmes mais brilhantes e intensos do Tarantino!"
+            },
+            {
+                "usuario": "historiaman",
+                "nota": 9.2,
+                "comentario": "Enredo alternativo da Segunda Guerra com diálogos geniais."
+            }
+        ]
+    }
+]
